@@ -1,4 +1,4 @@
-![Mexico](https://github.com/odychlapanis/odychlapanis.github.io/blob/main/mexico.jpg)
+![Mexico](https://raw.githubusercontent.com/odychlapanis/odychlapanis.github.io/refs/heads/main/mexico.jpg)
 ## Research Interests
 - Legal reasoning with LLMs
 ## Publications
