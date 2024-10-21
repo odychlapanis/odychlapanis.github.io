@@ -1,1 +1,1 @@
-This is the repo for my homepage: \href{https://odychlapanis.github.io/}.
+This is the repo for my homepage: https://odychlapanis.github.io/.
