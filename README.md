@@ -1,6 +1,3 @@
----
-layout: default
----
 # Research Interests
 # Publications
 ## -2024
