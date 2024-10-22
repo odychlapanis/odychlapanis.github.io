@@ -10,6 +10,10 @@
 - Semantic representations in deep neural networks
 
 ## Publications
+<hr style="border: 0; height: 1px; background: #d3d3d3;">
+
+<br>
+
 ### <span style="font-size: 1.2em; color: #d3d3d3; float: right; margin-top: -50px;">2024</span>
 
 #### LAR-ECHR: A New Legal Argument Reasoning Task and Dataset for Cases of the European Court of Human Rights 
