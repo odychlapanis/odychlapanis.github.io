@@ -10,6 +10,8 @@
 - Semantic representations in deep neural networks
 
 ## Publications
+<br>
+
 ### <span style="font-size: 3em; color: #d3d3d3; float: right; margin-top: -50px;">2024</span>
 
 <br><br>
@@ -30,6 +32,8 @@ Christos Fragkathoulas, and **Odysseas S. Chlapanis**
 <a href="https://doi.org/10.18653/v1/2024.semeval-1.229" style="text-decoration:none;"><button>View Paper</button></a>
 
 <hr style="border: 0; height: 1px; background: #d3d3d3;">
+
+<br>
 
 ### <span style="font-size: 3em; color: #d3d3d3; float: right; margin-top: -50px;">2023</span>
 
