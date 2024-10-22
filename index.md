@@ -14,7 +14,7 @@
 
 ### <span style="font-size: 3em; color: #d3d3d3; float: right; margin-top: -50px;">2024</span>
 
-<br><br>
+<br>
 
 ### LAR-ECHR: A New Legal Argument Reasoning Task and Dataset for Cases of the European Court of Human Rights 
 *In Proceedings of the Natural Legal Language Processing Workshop 2024 (NLLP 2024), to appear, Miami, Florida. ACL.*  
@@ -37,7 +37,7 @@ Christos Fragkathoulas, and **Odysseas S. Chlapanis**
 
 ### <span style="font-size: 3em; color: #d3d3d3; float: right; margin-top: -50px;">2023</span>
 
-<br><br>
+<br>
 
 ### Adapted Multimodal BERT with Layer-wise Fusion for Sentiment Analysis
 *In Proceedings of ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing, Rhodes Island, Greece*  
