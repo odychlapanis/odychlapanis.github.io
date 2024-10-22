@@ -19,7 +19,7 @@
 
 ### Local Explanations and Self-Explanations for Assessing Faithfulness in Black-box LLMs
 *In Proceedings of the 13th EETN Conference on Artificial Intelligence (SETN 2024) Workshops (SETNW), 2024.*  
-Christos Fragkathoulas, and **Odysseas S. Chlapanis**
+Christos Fragkathoulas, and **Odysseas S. Chlapanis**  
 <a href="https://doi.org/10.48550/arXiv.2409.13764" style="text-decoration:none;"><button>View Paper</button></a>
 
 ### Archimedes-AUEB at SemEval-2024 Task 5: LLM explains Civil Procedure
