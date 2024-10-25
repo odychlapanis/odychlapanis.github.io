@@ -1,6 +1,6 @@
 title: Odysseas S. Chlapanis
 logo: profile.jpg
-description: I am a PhD student at <a href="https://www.aueb.gr/en" target="_blank">Athens University of Economics and Business</a> and <a href="https://archimedesai.gr/en/" target="_blank">Archimedes Research Unit</a>. My research is focused on evaluating and improving the reasoning capabilities of LLMs on legal tasks (LegalNLP). I am also very interested in developing practical LLM applications.
+description: I am PhD student at <a href="https://www.aueb.gr/en" target="_blank">Athens University of Economics and Business</a> and Affiliate Researcher at <a href="https://archimedesai.gr/en/" target="_blank">Archimedes Research Unit</a>. My research is focused on evaluating and improving the reasoning capabilities of LLMs on legal tasks (LegalNLP). I am also very interested in developing practical LLM applications.
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
