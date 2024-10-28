@@ -21,6 +21,7 @@
     </a>
 </div>
 
+<br>
 
 ## Publications
 <hr style="border: 0; height: 1px; background: #d3d3d3;">
