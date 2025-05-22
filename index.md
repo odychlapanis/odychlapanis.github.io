@@ -26,6 +26,8 @@
 
 ## Publications
 
+<hr style="border: 0; height: 1px; background: #d3d3d3;">
+
 <br>
 
 ### <span style="font-size: 1.2em; color: #d3d3d3; float: right; margin-top: -50px;">2025</span>
