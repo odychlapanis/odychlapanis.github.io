@@ -28,18 +28,24 @@
 <hr style="border: 0; height: 1px; background: #d3d3d3;">
 
 <br>
+### <span style="font-size: 1.2em; color: #d3d3d3; float: right; margin-top: -50px;">2025</span>
+
+#### AUEB-Archimedes at RIRAG-2025: Is Obligation concatenation really all you need?
+*In Proceedings of the 1st Regulatory NLP Workshop (RegNLP 2025), pages 52–58, Abu Dhabi, UAE. ACL.*
+Ioannis Chasandras, **Odysseas S. Chlapanis**, and Ion Androutsopoulos  
+<a href="https://aclanthology.org/2025.regnlp-1.8/" style="text-decoration:none;"><button>View Paper</button></a>
 
 ### <span style="font-size: 1.2em; color: #d3d3d3; float: right; margin-top: -50px;">2024</span>
 
 #### LAR-ECHR: A New Legal Argument Reasoning Task and Dataset for Cases of the European Court of Human Rights 
 *In Proceedings of the Natural Legal Language Processing Workshop 2024 (NLLP 2024), to appear, Miami, Florida. ACL.*  
 **Odysseas S. Chlapanis**, Dimitrios Galanis, and Ion Androutsopoulos  
-<a href="https://doi.org/10.48550/arXiv.2410.13352" style="text-decoration:none;"><button>View Paper</button></a>
+<a href="https://aclanthology.org/2024.nllp-1.22/" style="text-decoration:none;"><button>View Paper</button></a>
 
 #### Local Explanations and Self-Explanations for Assessing Faithfulness in Black-box LLMs
 *In Proceedings of the 13th EETN Conference on Artificial Intelligence (SETN 2024) Workshops (SETNW), 2024.*  
 Christos Fragkathoulas, and **Odysseas S. Chlapanis**  
-<a href="https://doi.org/10.48550/arXiv.2409.13764" style="text-decoration:none;"><button>View Paper</button></a>
+<a href="https://dl.acm.org/doi/10.1145/3688671.3688775" style="text-decoration:none;"><button>View Paper</button></a>
 
 #### Archimedes-AUEB at SemEval-2024 Task 5: LLM explains Civil Procedure
 *In Proceedings of the 18th International Workshop on Semantic Evaluation (SemEval-2024), Mexico City, Mexico. ACL.*  
