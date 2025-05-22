@@ -25,7 +25,6 @@
 <br>
 
 ## Publications
-<hr style="border: 0; height: 1px; background: #d3d3d3;">
 
 <br>
 
@@ -35,6 +34,10 @@
 *In Proceedings of the 1st Regulatory NLP Workshop (RegNLP 2025), pages 52–58, Abu Dhabi, UAE. ACL.*
 Ioannis Chasandras, **Odysseas S. Chlapanis**, and Ion Androutsopoulos  
 <a href="https://aclanthology.org/2025.regnlp-1.8/" style="text-decoration:none;"><button>View Paper</button></a>
+
+<hr style="border: 0; height: 1px; background: #d3d3d3;">
+
+<br>
 
 ### <span style="font-size: 1.2em; color: #d3d3d3; float: right; margin-top: -50px;">2024</span>
 
