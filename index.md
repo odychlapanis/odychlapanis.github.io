@@ -44,7 +44,7 @@ Ioannis Chasandras, **Odysseas S. Chlapanis**, and Ion Androutsopoulos
 ### <span style="font-size: 1.2em; color: #d3d3d3; float: right; margin-top: -50px;">2024</span>
 
 #### LAR-ECHR: A New Legal Argument Reasoning Task and Dataset for Cases of the European Court of Human Rights 
-*In Proceedings of the Natural Legal Language Processing Workshop 2024 (NLLP 2024), to appear, Miami, Florida. ACL.*  
+*In Proceedings of the Natural Legal Language Processing Workshop 2024 (NLLP 2024), Miami, Florida. ACL.*  
 **Odysseas S. Chlapanis**, Dimitrios Galanis, and Ion Androutsopoulos  
 <a href="https://aclanthology.org/2024.nllp-1.22/" style="text-decoration:none;"><button>View Paper</button></a>
 
