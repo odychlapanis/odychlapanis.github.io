@@ -1,14 +1,9 @@
 # Homepage
 ## Research Interests
-- Legal reasoning with LLMs
 - Legal NLP and Legal tech
-- Faithfulness of NLP models
-- Retrieval Augmented Generation (RAG)
-- LLM-produced explanations (Chain-of-thought variants)
-- Synthetic data generation with LLMs
-- Interpretability/Explainability of deep neural networks
-- Semantic representations in deep neural networks
-
+- Legal reasoning with AI Agents
+- Cognitive Science and NLP
+  
 ## Contact
 <div style="font-size: 1.2em;">
     <a href="https://x.com/odychlapanis" target="_blank">
@@ -31,6 +26,11 @@
 <br>
 
 ### <span style="font-size: 1.2em; color: #d3d3d3; float: right; margin-top: -50px;">2025</span>
+
+#### GreekBarBench: A Challenging Benchmark for Free-Text Legal Reasoning and Citations
+*Accepted in EMNLP 2025, SuZhu, China. ACL.*
+**Odysseas S. Chlapanis**, Dimitrios Galanis, Nikolaos Aletras and Ion Androutsopoulos  
+<a href="https://arxiv.org/abs/2505.17267" style="text-decoration:none;"><button>View Paper</button></a>
 
 #### AUEB-Archimedes at RIRAG-2025: Is Obligation concatenation really all you need?
 *In Proceedings of the 1st Regulatory NLP Workshop (RegNLP 2025), pages 52–58, Abu Dhabi, UAE. ACL.*
