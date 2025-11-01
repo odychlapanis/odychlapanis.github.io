@@ -5,7 +5,7 @@
 - Cognitive Science and NLP
   
 ## Contact
-<div style="font-size: 2em;">
+<div style="font-size: 1.5em;">
     <a href="https://x.com/odychlapanis" target="_blank">
         <img src="X-Logo.png" alt="X logo" style="height: 1.3em; vertical-align: middle;">
     </a> |
