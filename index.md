@@ -5,15 +5,15 @@
 - Cognitive Science and NLP
   
 ## Contact
-<div style="font-size: 1.5em;">
+<div style="font-size: 1.2em;">
     <a href="https://x.com/odychlapanis" target="_blank">
-        <img src="X-Logo.png" alt="X logo" style="height: 1.3em; vertical-align: middle;">
+        <img src="X-Logo.png" alt="X logo" style="height: 1.0em; vertical-align: middle;">
     </a> |
     <a href="https://linkedin.com/in/odysseas-chlapanis-57b1ab223" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn logo" style="height: 1.5em; vertical-align: middle;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn logo" style="height: 1.2em; vertical-align: middle;">
     </a> |
     <a href="https://scholar.google.com/citations?user=hR7MJgYAAAAJ&hl=en" target="_blank">
-        <img src="scholar.png" alt="Google Scholar logo" style="height: 1.5em; vertical-align: middle; position: relative; top: -2px;">
+        <img src="scholar.png" alt="Google Scholar logo" style="height: 1.2em; vertical-align: middle; position: relative; top: -2px;">
     </a>
 </div>
 
