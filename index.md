@@ -58,6 +58,8 @@ Christos Fragkathoulas, and **Odysseas S. Chlapanis**
 **Odysseas S. Chlapanis**, Ion Androutsopoulos, and Dimitrios Galanis  
 <a href="https://doi.org/10.18653/v1/2024.semeval-1.229" style="text-decoration:none;"><button>View Paper</button></a>
 
+![Mexico](https://raw.githubusercontent.com/odychlapanis/odychlapanis.github.io/refs/heads/main/miami.jpg)
+
 <hr style="border: 0; height: 1px; background: #d3d3d3;">
 
 <br>
