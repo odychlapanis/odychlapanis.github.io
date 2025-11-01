@@ -12,7 +12,7 @@
     <a href="https://linkedin.com/in/odysseas-chlapanis-57b1ab223" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn logo" style="height: 1.2em; vertical-align: middle;">
     </a> |
-    <a href="https://scholar.google.com/citations?user=hR7MJgYAAAAJ&hl=" target="_blank" style="text-decoration: none; color: inherit;">
+    <a href="https://scholar.google.com/citations?user=hR7MJgYAAAAJ&hl=" target="_blank">
         Google Scholar <img src="scholar.png" alt="Google Scholar logo" style="height: 1.2em; vertical-align: middle; position: relative; top: -2px;">
     </a>
 </div>
