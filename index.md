@@ -48,6 +48,8 @@ Ioannis Chasandras, **Odysseas S. Chlapanis**, and Ion Androutsopoulos
 **Odysseas S. Chlapanis**, Dimitrios Galanis, and Ion Androutsopoulos  
 <a href="https://aclanthology.org/2024.nllp-1.22/" style="text-decoration:none;"><button>View Paper</button></a>
 
+![Miami](https://raw.githubusercontent.com/odychlapanis/odychlapanis.github.io/refs/heads/main/miami.jpg)
+
 #### Local Explanations and Self-Explanations for Assessing Faithfulness in Black-box LLMs
 *In Proceedings of the 13th EETN Conference on Artificial Intelligence (SETN 2024) Workshops (SETNW), 2024.*  
 Christos Fragkathoulas, and **Odysseas S. Chlapanis**  
@@ -58,7 +60,7 @@ Christos Fragkathoulas, and **Odysseas S. Chlapanis**
 **Odysseas S. Chlapanis**, Ion Androutsopoulos, and Dimitrios Galanis  
 <a href="https://doi.org/10.18653/v1/2024.semeval-1.229" style="text-decoration:none;"><button>View Paper</button></a>
 
-![Miami](https://raw.githubusercontent.com/odychlapanis/odychlapanis.github.io/refs/heads/main/miami.jpg)
+![Mexico](https://raw.githubusercontent.com/odychlapanis/odychlapanis.github.io/refs/heads/main/mexico.jpg)
 
 <hr style="border: 0; height: 1px; background: #d3d3d3;">
 
@@ -72,4 +74,5 @@ Christos Fragkathoulas, and **Odysseas S. Chlapanis**
 **Odysseas S. Chlapanis**, Georgios Paraskevopoulos, and Alexandros Potamianos  
 <a href="https://doi.org/10.1109/ICASSP49357.2023.10094923" style="text-decoration:none;"><button>View Paper</button></a>
 
-![Mexico](https://raw.githubusercontent.com/odychlapanis/odychlapanis.github.io/refs/heads/main/mexico.jpg)
+
+![Rhodes](https://raw.githubusercontent.com/odychlapanis/odychlapanis.github.io/refs/heads/main/rhodes.jpg)
