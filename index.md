@@ -28,9 +28,9 @@
 ### <span style="font-size: 1.2em; color: #d3d3d3; float: right; margin-top: -50px;">2025</span>
 
 #### GreekBarBench: A Challenging Benchmark for Free-Text Legal Reasoning and Citations
-*Accepted in EMNLP 2025, SuZhu, China. ACL.*
-**Odysseas S. Chlapanis**, Dimitrios Galanis, Nikolaos Aletras and Ion Androutsopoulos  
-<a href="https://arxiv.org/abs/2505.17267" style="text-decoration:none;"><button>View Paper</button></a>
+*In Findings of the Association for Computational Linguistics: EMNLP 2025, SuZhu, China. ACL.*
+**Odysseas S. Chlapanis**, Dimitrios Galanis, Nikolaos Aletras and Ion Androutsopoulos
+<a href="https://aclanthology.org/2025.findings-emnlp.1368/" style="text-decoration:none;"><button>View Paper</button></a>
 
 #### AUEB-Archimedes at RIRAG-2025: Is Obligation concatenation really all you need?
 *In Proceedings of the 1st Regulatory NLP Workshop (RegNLP 2025), pages 52–58, Abu Dhabi, UAE. ACL.*
@@ -58,7 +58,7 @@ Christos Fragkathoulas, and **Odysseas S. Chlapanis**
 #### Archimedes-AUEB at SemEval-2024 Task 5: LLM explains Civil Procedure
 *In Proceedings of the 18th International Workshop on Semantic Evaluation (SemEval-2024), Mexico City, Mexico. ACL.*  
 **Odysseas S. Chlapanis**, Ion Androutsopoulos, and Dimitrios Galanis  
-<a href="https://doi.org/10.18653/v1/2024.semeval-1.229" style="text-decoration:none;"><button>View Paper</button></a>
+<a href="https://aclanthology.org/2024.semeval-1.229/" style="text-decoration:none;"><button>View Paper</button></a>
 
 ![Mexico](https://raw.githubusercontent.com/odychlapanis/odychlapanis.github.io/refs/heads/main/mexico.jpg)
 
